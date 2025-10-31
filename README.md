@@ -8,8 +8,8 @@ I'm learning and building cool projects in:
 -  UE5
 
 ### 🌟 Projects
-- 🔗 [Project 1](https://github.com/Trifiatis/Trfiatis/blob/main/sword-min.png?raw=true) – Short description
-- 🔗 [Project 2](#)
+- 🔗 [Project 1](#) – This was my very first Blender project — the classic donut! I followed the tutorials to learn the basics of modeling, shading, and rendering. It was a super fun intro to 3D art and got me hooked on experimenting with textures and lighting.
+- 🔗 [Project 2](https://github.com/Trifiatis/Trfiatis/blob/main/sword-min.png?raw=true) - This is my second Blender project a sword scene I made to practice modeling, texturing, and lighting. I wanted to give it a slightly cinematic look, with the blade resting on mossy cobblestones under warm lighting. Learned a lot about materials and composition while making this one!
 
 ### 📫 Contact
 - Email: youremail@example.com
