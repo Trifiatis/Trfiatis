@@ -8,7 +8,7 @@ I'm learning and building cool projects in:
 -  UE5
 
 ### 🌟 Projects
-- 🔗 [Project 1](#) – Short description
+- 🔗 [Project 1](https://github.com/Trifiatis/Trfiatis/blob/main/sword-min.png?raw=true) – Short description
 - 🔗 [Project 2](#)
 
 ### 📫 Contact
